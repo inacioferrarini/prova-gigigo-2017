@@ -1,0 +1,76 @@
+{
+    "publishedAt": "2017-05-18T02:22:32.000Z",
+    "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+    "title": "iPhone — Why Switch",
+    "description": "",
+    "thumbnails": {
+        "default": {
+            "url": "https://i.ytimg.com/vi/AszkLviSLlg/default.jpg",
+            "width": 120,
+            "height": 90
+        },
+        "medium": {
+            "url": "https://i.ytimg.com/vi/AszkLviSLlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+        },
+        "high": {
+            "url": "https://i.ytimg.com/vi/AszkLviSLlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+        },
+        "standard": {
+            "url": "https://i.ytimg.com/vi/AszkLviSLlg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+        },
+        "maxres": {
+            "url": "https://i.ytimg.com/vi/AszkLviSLlg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "channelTitle": "Apple",
+    "localized": {
+        "title": "iPhone — Why Switch",
+        "description": ""
+    },
+    "playlistId": "PLHFlHpPjgk72N_yWeNI_HEwFi-LdOk61h",
+    "position": 0,
+    "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "FC0pT9xg1oI"
+    },
+    "tags": [
+        "Apple",
+        "WWDC",
+        "Apple event",
+        "Apple Keynote",
+        "apps",
+        "iPad Pro",
+        "Venmo",
+        "Cyclemeter",
+        "WeChat",
+        "Angry Birds",
+        "Waze",
+        "Apple Maps",
+        "Airbnb",
+        "iTunes",
+        "iBooks",
+        "Reddit",
+        "FarmVille2",
+        "Wikipedia",
+        "Candy Crush",
+        "Tinder",
+        "Lyft",
+        "Pokemon Go",
+        "Face Swap",
+        "Christopher Cross",
+        "All Right",
+        "Brittany Furlan",
+        "Jonathan Badeen"
+    ],
+    "categoryId": "28",
+    "liveBroadcastContent": "none",
+    "defaultAudioLanguage": "en"
+}

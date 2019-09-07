@@ -1,0 +1,11 @@
+
+workspace: YouTubeVideos.xcworkspace
+xcodeproj: YouTubeVideos.xcodeproj
+scheme: YouTubeVideos
+output_directory: slather-report
+source_directory: YouTubeVideos
+coverage_service: html
+ignore:
+  - Pods/*
+  - YouTubeVideosTests/*
+

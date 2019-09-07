@@ -1,0 +1,61 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/VBwzFEIpKUbOUDu4CH7AwyPw8QI\"",
+    "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+    },
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/NagBDMcJlNqJiyIDoqv5LJqXa8E\"",
+            "id": "FC0pT9xg1oI",
+            "snippet": {
+                "publishedAt": "2017-06-05T19:32:14.000Z",
+                "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+                "title": "WWDC 2017 — APPOCALYPSE — Apple",
+                "description": "Ever wonder what life would be like if all our apps suddenly disappeared? Enter the Appocalypse.\n\nSong: “All Right” by Christopher Cross https://itun.es/us/Xnvb_?i=1057314316",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FC0pT9xg1oI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FC0pT9xg1oI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FC0pT9xg1oI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FC0pT9xg1oI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FC0pT9xg1oI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apple",
+                "tags": [
+                    "Apple",
+                    "WWDC",
+                    "Apple event"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "WWDC 2017 — APPOCALYPSE — Apple",
+                    "description": "Ever wonder what life would be like if all our apps suddenly disappeared? Enter the Appocalypse.\n\nSong: “All Right” by Christopher Cross https://itun.es/us/Xnvb_?i=1057314316"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        }
+    ]
+}

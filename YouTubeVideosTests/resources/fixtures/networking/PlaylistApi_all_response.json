@@ -1,0 +1,97 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/eRcKdDlKMRsKdej2D7lXRK94fc4\"",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+        "totalResults": 12,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/7EfVrfKwiK7Kzdh3HIuC0l1-5v4\"",
+            "id": "PLHFlHpPjgk70W5LbPJOfpec8WJo2fEoB7",
+            "snippet": {
+                "publishedAt": "2017-05-18T02:22:32.000Z",
+                "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+                "title": "iPhone — Why Switch",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AszkLviSLlg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AszkLviSLlg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AszkLviSLlg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AszkLviSLlg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AszkLviSLlg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apple",
+                "localized": {
+                    "title": "iPhone — Why Switch",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/cy3x_OvkfNWvA_XdBQZeveDNIew\"",
+            "id": "PLHFlHpPjgk7307LVoFKonAqq616WCzif7",
+            "snippet": {
+                "publishedAt": "2017-05-12T21:48:13.000Z",
+                "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+                "title": "Accessibility — Designed for everyone",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EHAO_kj0qcA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EHAO_kj0qcA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EHAO_kj0qcA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EHAO_kj0qcA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EHAO_kj0qcA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apple",
+                "localized": {
+                    "title": "Accessibility — Designed for everyone",
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

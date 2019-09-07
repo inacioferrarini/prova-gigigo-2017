@@ -1,0 +1,6 @@
+framework module York {
+  umbrella header "York-umbrella.h"
+
+  export *
+  module * { export * }
+}

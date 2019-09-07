@@ -1,0 +1,101 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/AW9PgoOVcvc49QjLkiKb1qTXzUc\"",
+    "nextPageToken": "CAUQAA",
+    "pageInfo": {
+        "totalResults": 34,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/W6pnQM1ZFh8LHPuPlX37cRUJw9o\"",
+            "id": "UExIRmxIcFBqZ2s3Mk5feVdlTklfSEV3RmktTGRPazYxaC42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2017-06-05T19:32:15.000Z",
+                "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+                "title": "WWDC 2017 — APPOCALYPSE — Apple",
+                "description": "Ever wonder what life would be like if all our apps suddenly disappeared? Enter the Appocalypse.\n\nSong: “All Right” by Christopher Cross https://itun.es/us/Xnvb_?i=1057314316",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FC0pT9xg1oI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FC0pT9xg1oI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FC0pT9xg1oI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FC0pT9xg1oI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FC0pT9xg1oI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apple",
+                "playlistId": "PLHFlHpPjgk72N_yWeNI_HEwFi-LdOk61h",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FC0pT9xg1oI"
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "\"m2yskBQFythfE4irbTIeOgYYfBU/DnbsRmQKIDjWA2VE-AH-4yo74ds\"",
+            "id": "UExIRmxIcFBqZ2s3Mk5feVdlTklfSEV3RmktTGRPazYxaC5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2017-06-05T19:28:51.000Z",
+                "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+                "title": "Introducing HomePod — Apple",
+                "description": "Immersive hi-fi audio. All the music you love. And the intelligence of Siri. Welcome HomePod — Available in December.\n \nLearn more: http://apple.co/homepod-\n\nSong: “You’re Mine” by Phantogram  http://apple.co/2rEamJe",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1hw9skL-IXc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1hw9skL-IXc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1hw9skL-IXc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1hw9skL-IXc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1hw9skL-IXc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apple",
+                "playlistId": "PLHFlHpPjgk72N_yWeNI_HEwFi-LdOk61h",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1hw9skL-IXc"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+PODS:
+  - JLRoutes (1.6)
+  - Nimble (6.0.1)
+  - OHHTTPStubs/Core (6.0.0)
+  - OHHTTPStubs/Default (6.0.0):
+    - OHHTTPStubs/Core
+    - OHHTTPStubs/JSON
+    - OHHTTPStubs/NSURLSession
+    - OHHTTPStubs/OHPathHelpers
+  - OHHTTPStubs/JSON (6.0.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/NSURLSession (6.0.0):
+    - OHHTTPStubs/Core
+  - OHHTTPStubs/OHPathHelpers (6.0.0)
+  - OHHTTPStubs/Swift (6.0.0):
+    - OHHTTPStubs/Default
+  - Quick (1.1.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - VMaskTextField (1.0.8)
+  - York (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+    - York/Collections (= 0.4.0)
+    - York/Context (= 0.4.0)
+    - York/DataSource (= 0.4.0)
+    - York/DataSyncRules (= 0.4.0)
+    - York/DeepLinkingNavigation (= 0.4.0)
+    - York/Extensions (= 0.4.0)
+    - York/FlowCoordinator (= 0.4.0)
+    - York/Logging (= 0.4.0)
+    - York/Networking (= 0.4.0)
+    - York/Persistence (= 0.4.0)
+    - York/Presenter (= 0.4.0)
+    - York/StaticContent (= 0.4.0)
+    - York/Transformer (= 0.4.0)
+    - York/ViewComponents (= 0.4.0)
+    - York/ViewController (= 0.4.0)
+    - York/ViewDelegates (= 0.4.0)
+    - York/Views (= 0.4.0)
+  - York/Collections (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+  - York/Context (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+    - York/DataSyncRules
+    - York/DeepLinkingNavigation
+    - York/Logging
+    - York/Persistence
+  - York/DataSource (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+    - York/Extensions
+    - York/Logging
+    - York/Presenter
+  - York/DataSyncRules (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+    - York/Extensions
+    - York/Persistence
+  - York/DeepLinkingNavigation (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+    - York/Extensions
+    - York/Logging
+  - York/Extensions (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+  - York/FlowCoordinator (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+  - York/Logging (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+  - York/Networking (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+  - York/Persistence (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+    - York/Logging
+  - York/Presenter (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+  - York/StaticContent (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+  - York/Transformer (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+  - York/ViewComponents (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+    - York/Extensions
+  - York/ViewController (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+    - York/Context
+  - York/ViewDelegates (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+  - York/Views (0.4.0):
+    - JLRoutes (= 1.6)
+    - VMaskTextField (= 1.0.8)
+    - York/Extensions
+    - York/Presenter
+
+DEPENDENCIES:
+  - Nimble (~> 6.0.0)
+  - OHHTTPStubs/Swift (~> 6.0.0)
+  - Quick (~> 1.1.0)
+  - SDWebImage (~> 4.0.0)
+  - York (= 0.4.0)
+
+SPEC CHECKSUMS:
+  JLRoutes: 435d791422e96c9b9b5e1c4db1aedb3ae1b1a08f
+  Nimble: 1527fd1bd2b4cf0636251a36bc8ab37e81da8347
+  OHHTTPStubs: 752f9b11fd810a15162d50f11c06ff94f8e012eb
+  Quick: dafc587e21eed9f4cab3249b9f9015b0b7a7f71d
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  VMaskTextField: e77fe33633f999c5c38e70bed0afece0625624a4
+  York: 8f97837dc08b61e5dc72811ebc8ce137d398535b
+
+PODFILE CHECKSUM: 6fee658047538c6a2c7d0cef1269af54e472abc8
+
+COCOAPODS: 1.0.1
